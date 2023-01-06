@@ -19,4 +19,3 @@ entries:
     urls:
     - https://github.com/hmz-28/cert-manager-webhook-ionos/releases/download/cert-manager-webhook-ionos-1.0.1/cert-manager-webhook-ionos-1.0.1.tgz
     version: 1.0.1
-generated: "2022-09-24T09:42:39.756594042Z"
