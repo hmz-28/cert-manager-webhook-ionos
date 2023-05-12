@@ -43,7 +43,7 @@ spec:
     solvers:
       - dns01:
           webhook:
-            groupName: acme.fabmade.de
+            groupName: acme.smartech.tn
             solverName: ionos
             config:
               apiUrl: https://api.hosting.ionos.com/dns/v1
